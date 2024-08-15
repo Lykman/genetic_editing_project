@@ -1,0 +1,13 @@
+pandas
+scikit-learn
+numpy
+torch
+transformers
+requests
+beautifulsoup4
+kaggle
+matplotlib
+seaborn
+psycopg2
+tensorflow
+ollama
