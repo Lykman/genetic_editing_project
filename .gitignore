@@ -161,8 +161,3 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-venv/
-venv/lib/python3.12/site-packages/scipy/.dylibs/libopenblas.0.dylib
-venv/lib/python3.12/site-packages/torch/lib/libtorch_cpu.dylib
-venv/lib/python3.12/site-packages/scipy/.dylibs/libopenblas.0.dylib
-venv/lib/python3.12/site-packages/torch/lib/libtorch_cpu.dylib
