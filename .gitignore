@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 
 venv/
+venv/lib/python3.12/site-packages/scipy/.dylibs/libopenblas.0.dylib
+venv/lib/python3.12/site-packages/torch/lib/libtorch_cpu.dylib
