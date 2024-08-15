@@ -27,3 +27,78 @@ This project aims to analyze genetic data, identify problematic genes associated
    ```bash
    git clone https://github.com/yourusername/genetic-editing-project.git
    cd genetic-editing-project
+   ```
+
+2. **Install the dependencies**:
+   Make sure you have Python installed. Then, install the required packages using pip:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Run the project**:
+   You can start by cleaning the data and training the models:
+   ```bash
+   python src/clean_data.py
+   python src/model_trainer.py
+   ```
+
+4. **Monitor the results**:
+   After running the models, you can monitor the results using:
+   ```bash
+   python src/monitor.py
+   ```
+
+5. **Simulate Genetic Edits**:
+   Use the gene editor to simulate CRISPR-Cas9 interventions:
+   ```bash
+   python src/gene_editor.py
+   ```
+
+## How to Run
+
+1. **Prepare your environment**:
+   - Install Python 3.8 or higher.
+   - Clone the repository and navigate to the project directory.
+
+2. **Install dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Run the main script**:
+   ```bash
+   python src/main.py
+   ```
+
+4. **Monitor the outputs**:
+   - Review logs and outputs in the `results/` directory.
+
+## Use Case Scenarios
+
+This project can be particularly useful in the following scenarios:
+
+- **Medical Research**: Identifying genes associated with breast and prostate cancer for targeted therapies.
+- **Genetic Diagnostics**: Early detection of problematic genes that could lead to cancer.
+- **Precision Medicine**: Tailoring treatments based on genetic data to improve patient outcomes.
+
+## Contributing
+
+If you would like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a Pull Request.
+
+We welcome contributions that improve the project, whether it's code, documentation, or ideas for new features.
+
+## Video Demonstration
+
+Watch a short video where we explain and demonstrate the project:
+
+[![AI Driven Cancer Treatment Revolution](https://img.youtube.com/vi/oyuopyGIKiM/0.jpg)](https://youtu.be/oyuopyGIKiM)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
