@@ -100,14 +100,6 @@ Watch the project overview and demonstration on YouTube:
 
 [![AI Driven Cancer Treatment Revolution](https://img.youtube.com/vi/oyuopyGIKiM/0.jpg)](https://youtu.be/oyuopyGIKiM)
 
-## Visual Overview
-
-Here’s a quick visual representation of the genetic editing process using our system:
-
-![DNA Rotation](path/to/your/dna_gif.gif)
-
-*Note: Replace `path/to/your/dna_gif.gif` with the actual path to your GIF in the repository.*
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
